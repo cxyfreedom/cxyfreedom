@@ -49,6 +49,44 @@ A senior backend developer from China, based in Shanghai
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
 <!--START_SECTION:waka-->
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.37% 
+🌆 Daytime    48 commits     ████████████░░░░░░░░░░░░░   50.53% 
+🌃 Evening    38 commits     ██████████░░░░░░░░░░░░░░░   40.0% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11%
+
+```
+📅 **I'm Most Productive on Tuesdays** 
+
+```text
+Monday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Tuesday      23 commits     ██████░░░░░░░░░░░░░░░░░░░   24.21% 
+Wednesday    19 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Thursday     12 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.63% 
+Friday       13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.68% 
+Saturday     14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
+Sunday       9 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.47%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 <!--
