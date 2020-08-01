@@ -8,8 +8,6 @@ A senior backend developer from China, based in Shanghai
 
 ## About Me
 
-- 🔭 I’m currently working on [![Github](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=Github&logoColor=ffffff)](https://github.com/cxyfreedom/cxyfreedom)
-
 - 🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
 
 - 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-reishin.me-FF4088?style=for-the-badge&logo=Hugo&logoColor=ffffff)](https://reishin.me)
