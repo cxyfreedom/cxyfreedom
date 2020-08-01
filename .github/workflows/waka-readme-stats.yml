@@ -19,9 +19,3 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False" 
-      - name: Commit and push
-        run: |-
-          git config --global user.email "bot@github.com" && git config --global user.name "Waka-Bot"
-          git diff
-          git add README.md && git commit -m "Update Profile Stats" || exit 0
-          git pull && git push
