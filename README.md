@@ -53,7 +53,7 @@ A senior backend developer from China, based in Shanghai
 
 **🐱 My GitHub Data** 
 
-> 🏆 16 Contributions in the Year 2021
+> 🏆 14 Contributions in the Year 2021
  > 
 > 📦 48.7 kB Used in GitHub's Storage 
  > 
