@@ -49,7 +49,7 @@ A senior backend developer from China, based in Shanghai
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-141-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-140-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,8 +67,8 @@ A senior backend developer from China, based in Shanghai
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    1 commits      █████████████████████████   100.0% 
-🌃 Evening    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    10 commits     ████████████████████░░░░░   83.33% 
+🌃 Evening    2 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -78,9 +78,9 @@ A senior backend developer from China, based in Shanghai
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     1 commits      █████████████████████████   100.0% 
+Thursday     1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Friday       1 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Saturday     10 commits     ████████████████████░░░░░   83.33% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -114,10 +114,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/cxyfreedom/cxyfreedom/master/charts/bar_graph.png) 
 
 
  Last Updated on 30/12/2021
