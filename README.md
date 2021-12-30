@@ -49,13 +49,13 @@ A senior backend developer from China, based in Shanghai
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-140-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-179-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 13 Contributions in the Year 2021
+> 🏆 14 Contributions in the Year 2021
  > 
-> 📦 48.6 kB Used in GitHub's Storage 
+> 📦 48.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
