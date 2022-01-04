@@ -49,9 +49,7 @@ A senior backend developer from China, based in Shanghai
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2015%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-242-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-244-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,17 +90,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   24 hrs 45 mins      ███████████████████████░░   93.45% 
-HTML                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13% 
-Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2% 
-textmate                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
+Python                   18 hrs 19 mins      ████████████████████████░   96.19% 
+Bash                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.45% 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95% 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
+textmate                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14%
 
 🔥 Editors: 
-PyCharm                  26 hrs 29 mins      █████████████████████████   100.0%
+PyCharm                  19 hrs 2 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      26 hrs 29 mins      █████████████████████████   100.0%
+Mac                      19 hrs 2 mins       █████████████████████████   100.0%
 
 ```
 
@@ -122,7 +120,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/cxyfreedom/cxyfreedom/master/charts/bar_graph.png) 
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
 <!--
