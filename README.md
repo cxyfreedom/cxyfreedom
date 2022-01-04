@@ -49,13 +49,13 @@ A senior backend developer from China, based in Shanghai
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C551%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C553%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-244-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-254-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 1 Contributions in the Year 2022
  > 
 > 📦 48.7 kB Used in GitHub's Storage 
  > 
@@ -69,8 +69,8 @@ A senior backend developer from China, based in Shanghai
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    10 commits     █████████████████░░░░░░░░   71.43% 
-🌃 Evening    4 commits      ███████░░░░░░░░░░░░░░░░░░   28.57% 
+🌆 Daytime    11 commits     ██████████████████░░░░░░░   73.33% 
+🌃 Evening    4 commits      ██████░░░░░░░░░░░░░░░░░░░   26.67% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -78,11 +78,11 @@ A senior backend developer from China, based in Shanghai
 
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
 Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     3 commits      █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Friday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Saturday     10 commits     █████████████████░░░░░░░░   71.43% 
+Thursday     3 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Friday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Saturday     10 commits     ████████████████░░░░░░░░░   66.67% 
 Sunday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -116,10 +116,6 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/cxyfreedom/cxyfreedom/master/charts/bar_graph.png) 
 
 
  Last Updated on 04/01/2022
