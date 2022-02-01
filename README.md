@@ -49,17 +49,17 @@ A senior backend developer from China, based in Shanghai
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-160-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2022
+> 🏆 2 Contributions in the Year 2022
  > 
 > 📦 48.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 48 Public Repositories 
+> 📜 49 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
@@ -90,17 +90,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 54 mins      ████████████████████████░   96.19% 
-Text                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-requirements.txt         5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
-Shell Script             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
+Python                   20 hrs 18 mins      ███████████████████████░░   92.53% 
+Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.56% 
+Text                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.06% 
+Shell Script             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98% 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.41%
 
 🔥 Editors: 
-PyCharm                  16 hrs 32 mins      █████████████████████████   100.0%
+PyCharm                  21 hrs 56 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      16 hrs 32 mins      █████████████████████████   100.0%
+Mac                      21 hrs 56 mins      █████████████████████████   100.0%
 
 ```
 
@@ -116,7 +116,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2022
+ Last Updated on 01/02/2022
 <!--END_SECTION:waka-->
 
 <!--
