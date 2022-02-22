@@ -49,9 +49,7 @@ A senior backend developer from China, based in Shanghai
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C639%20hrs%201%20min-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-251-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-269-blue)
 
 **🐱 My GitHub Data** 
 
@@ -118,7 +116,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2022
+ Last Updated on 22/02/2022
 <!--END_SECTION:waka-->
 
 <!--
