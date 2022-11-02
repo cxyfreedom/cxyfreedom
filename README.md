@@ -51,7 +51,7 @@ A senior backend developer from China, based in Shanghai
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C264%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-205-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-204-blue)
 
 **🐱 My GitHub Data** 
 
