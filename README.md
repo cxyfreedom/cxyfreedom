@@ -49,9 +49,9 @@ A senior backend developer from China, based in Shanghai
 <p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C344%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C349%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-193-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-189-blue)
 
 **🐱 My GitHub Data** 
 
@@ -92,17 +92,17 @@ Sunday       0 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   29 hrs 36 mins      ██████████████████████░░░   90.19% 
-YAML                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-Markdown                 51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
-textmate                 50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57% 
-Nginx configuration file 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+Python                   23 hrs 30 mins      ██████████████████████░░░   89.17% 
+YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
+textmate                 50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2% 
+Markdown                 47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
+Nginx configuration file 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
 
 🔥 Editors: 
-PyCharm                  32 hrs 49 mins      █████████████████████████   100.0%
+PyCharm                  26 hrs 22 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      32 hrs 49 mins      █████████████████████████   100.0%
+Mac                      26 hrs 22 mins      █████████████████████████   100.0%
 
 ```
 
@@ -118,7 +118,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2022
+ Last Updated on 23/11/2022
 <!--END_SECTION:waka-->
 
 <!--
