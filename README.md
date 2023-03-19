@@ -1,57 +1,32 @@
-# Visitors
-
-[![](https://el-psy-congroo-counter.glitch.me/count.svg)](https://glitch.com/~el-psy-congroo-counter)
-
 # Hi, I'm cxyfreedom
 
-A senior backend developer from China, based in Shanghai
+A senior backend developer from China, based in Shanghai. I regulary write articles on Obsidian.
 
 ## About Me
 
-- 🌱 I’m currently learning [![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
+[![](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)](https://visitor-badge.laobi.icu/badge?page_id=cxyfreedom.cxyfreedom)
+[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:cxyfreedom@gmail.com)
+[![](https://img.shields.io/github/stars/cxyfreedom?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+[![](https://img.shields.io/github/followers/cxyfreedom?color=27da6b&logo=Handshake)](https://github.com/cxyfreedom?tab=followers)
+[![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-reishin.me-ffffff?logo=Hugo)](https://reishin.me)<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C757%20hrs%2026%20mins-blue)
 
-- 📝 I regulary write articles on [![Blog](https://img.shields.io/badge/-reishin.me-FF4088?style=for-the-badge&logo=Hugo&logoColor=ffffff)](https://reishin.me)
+## Tools
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:cxydfreedom@gmail.com) [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/cxyfreedom)
-
-## Operating System & Tools
-
-[![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
-[![centOS](https://img.shields.io/badge/CentOS-7.0-blue?style=flat-square&logo=CentOS&logoColor=262577)](https://www.centos.org/)
-
-[![Pycharm](https://img.shields.io/badge/IDE-PyCharm-yellow?style=flat-square&logo=JetBrains)](https://www.jetbrains.com/pycharm/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> <a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
 
 ## Technology Stack
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
-
-[![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
-
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
-[![influxDB](https://img.shields.io/badge/-influxDB-22ADF6?style=flat-square&logo=influxDB&logoColor=ffffff)](https://www.influxdata.com/)
-[![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=ffffff)](https://www.elastic.co/)
-
-[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=ffffff)](https://www.rabbitmq.com/)
-[![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat-square&logo=Apache%20kafka&logoColor=ffffff)](https://kafka.apache.org/)
-
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> 
 
 ## Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&show_icons=true&theme=dracula" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C757%20hrs%2026%20mins-blue)
+![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-234-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,6 +40,10 @@ A senior backend developer from China, based in Shanghai
  > 
 > 🔑 2 Private Repositories  
  > 
+
+[![](https://activity-graph.herokuapp.com/graph?username=cxyfreedom&theme=github)](https://activity-graph.herokuapp.com/graph?username=cxyfreedom&theme=github)
+
+
 **I'm a Night 🦉** 
 
 ```text
