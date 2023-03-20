@@ -11,7 +11,7 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-reishin.me-ffffff?logo=Hugo)](https://reishin.me)<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C757%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-236-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-231-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,7 +78,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2023
+ Last Updated on 20/03/2023
 <!--END_SECTION:waka-->
 
 <!--
