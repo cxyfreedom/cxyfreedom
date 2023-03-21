@@ -9,7 +9,7 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 [![](https://img.shields.io/github/stars/cxyfreedom?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=cxyfreedom&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/cxyfreedom?color=27da6b&logo=Handshake)](https://github.com/cxyfreedom?tab=followers)
 [![](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-reishin.me-ffffff?logo=Hugo)](https://reishin.me)<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C763%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C757%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -50,17 +50,17 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   11 hrs 47 mins      ████████████░░░░░░░░░░░░░   51.31% 
-YAML                     6 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   27.29% 
-INI                      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.68% 
-SQL                      47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
-textmate                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.14%
+Python                   12 hrs 26 mins      █████████████░░░░░░░░░░░░   52.35% 
+YAML                     6 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.36% 
+INI                      1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.31% 
+textmate                 44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09% 
+Markdown                 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.64%
 
 🔥 Editors: 
-PyCharm                  22 hrs 59 mins      █████████████████████████   100.0%
+PyCharm                  23 hrs 45 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      22 hrs 59 mins      █████████████████████████   100.0%
+Mac                      23 hrs 45 mins      █████████████████████████   100.0%
 
 ```
 
@@ -76,7 +76,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/03/2023
+ Last Updated on 21/03/2023
 <!--END_SECTION:waka-->
 
 <!--
