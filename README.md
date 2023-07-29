@@ -27,13 +27,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C181%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C182%20hrs%2043%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 9 Contributions in the Year 2023
  > 
-> 📦 30.2 kB Used in GitHub's Storage 
+> 📦 30.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,9 +68,9 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   42.36% 
-YAML                     1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   35.11% 
-Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45% 
+Python                   2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   42.34% 
+YAML                     1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   35.09% 
+Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
 textmate                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.55% 
 SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.26%
 
@@ -94,7 +94,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2023
+ Last Updated on 29/07/2023
 <!--END_SECTION:waka-->
 
 <!--
