@@ -27,7 +27,7 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C299%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C304%20hrs%2030%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -37,7 +37,7 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 52 Public Repositories 
+> 📜 51 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -68,17 +68,17 @@ Sunday       2 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 37 mins      █████████████████░░░░░░░░   68.97% 
-YAML                     2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
-Bash                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.78% 
-Shell Script             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78% 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42%
+Python                   14 hrs 44 mins      ██████████████████░░░░░░░   72.48% 
+Bash                     2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
+YAML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.67% 
+Shell Script             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.98% 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32%
 
 🔥 Editors: 
-PyCharm                  22 hrs 39 mins      █████████████████████████   100.0%
+PyCharm                  20 hrs 20 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      22 hrs 39 mins      █████████████████████████   100.0%
+Mac                      20 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +94,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2023
+ Last Updated on 07/09/2023
 <!--END_SECTION:waka-->
 
 <!--
