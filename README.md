@@ -27,17 +27,17 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C437%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C444%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 18 Contributions in the Year 2023
  > 
-> 📦 38.3 kB Used in GitHub's Storage 
+> 📦 39.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 53 Public Repositories 
+> 📜 52 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
@@ -68,17 +68,17 @@ Sunday       3 commits      █░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   17 hrs 10 mins      ████████████████░░░░░░░░░   66.18% 
-YAML                     4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
-Text                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-TOML                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
-textmate                 53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
+Python                   21 hrs 5 mins       ████████████████████░░░░░   83.31% 
+Text                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.76% 
+YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.41% 
+Prolog                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29% 
+textmate                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
 
 🔥 Editors: 
-PyCharm                  25 hrs 56 mins      █████████████████████████   100.0%
+PyCharm                  25 hrs 18 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      25 hrs 56 mins      █████████████████████████   100.0%
+Mac                      25 hrs 18 mins      █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +94,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2023
+ Last Updated on 25/10/2023
 <!--END_SECTION:waka-->
 
 <!--
