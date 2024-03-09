@@ -26,17 +26,17 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C804%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C810%20hrs%2016%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1 Contributions in the Year 2024
+> 🏆 2 Contributions in the Year 2024
  > 
-> 📦 62.5 kB Used in GitHub's Storage 
+> 📦 64.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 54 Public Repositories 
+> 📜 55 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -67,17 +67,17 @@ Sunday       2 commits      ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 28 mins      ██████████████████░░░░░░░   74.34% 
-YAML                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
-textmate                 1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
-Java                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.59%
+Python                   16 hrs 48 mins      █████████████████░░░░░░░░   68.88% 
+YAML                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
+textmate                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+Java                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.32% 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92%
 
 🔥 Editors: 
-PyCharm                  26 hrs 11 mins      █████████████████████████   100.0%
+PyCharm                  24 hrs 23 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      26 hrs 11 mins      █████████████████████████   100.0%
+Mac                      24 hrs 23 mins      █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2024
+ Last Updated on 09/03/2024
 <!--END_SECTION:waka-->
 
 <!--
