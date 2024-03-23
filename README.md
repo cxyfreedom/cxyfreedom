@@ -26,13 +26,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C846%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C852%20hrs%2012%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2024
  > 
-> 📦 67.7 kB Used in GitHub's Storage 
+> 📦 65.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,17 @@ Sunday       2 commits      ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 5 mins       █████████████░░░░░░░░░░░░   53.62% 
-Markdown                 5 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.6% 
-YAML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
-Java                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.13% 
-Nginx configuration file 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.8%
+Python                   11 hrs 51 mins      ████████████░░░░░░░░░░░░░   51.43% 
+Markdown                 6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   27.13% 
+YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.21% 
+Java                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
+Nginx configuration file 37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.74%
 
 🔥 Editors: 
-PyCharm                  22 hrs 33 mins      █████████████████████████   100.0%
+PyCharm                  23 hrs 3 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      22 hrs 33 mins      █████████████████████████   100.0%
+Mac                      23 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2024
+ Last Updated on 23/03/2024
 <!--END_SECTION:waka-->
 
 <!--
