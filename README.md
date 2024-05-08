@@ -26,13 +26,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C978%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C984%20hrs%2028%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 4 Contributions in the Year 2024
+> 🏆 5 Contributions in the Year 2024
  > 
-> 📦 73.8 kB Used in GitHub's Storage 
+> 📦 75.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,17 @@ Sunday       2 commits      ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 51 mins       █████████████████░░░░░░░░   69.25% 
-YAML                     1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.77% 
-Nginx configuration file 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94% 
-textmate                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
+Python                   7 hrs 4 mins        ████████████████░░░░░░░░░   67.06% 
+YAML                     2 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.23% 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
+Nginx configuration file 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96% 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75%
 
 🔥 Editors: 
-PyCharm                  5 hrs 34 mins       █████████████████████████   100.0%
+PyCharm                  10 hrs 32 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      5 hrs 34 mins       █████████████████████████   100.0%
+Mac                      10 hrs 32 mins      █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2024
+ Last Updated on 08/05/2024
 <!--END_SECTION:waka-->
 
 <!--
