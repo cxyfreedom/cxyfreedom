@@ -26,13 +26,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C090%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C098%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 6 Contributions in the Year 2024
  > 
-> 📦 81.7 kB Used in GitHub's Storage 
+> 📦 81.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,17 @@ Sunday       3 commits      ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   21 hrs 46 mins      ███████████████████░░░░░░   78.65% 
-YAML                     3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82% 
-Nginx configuration file 57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
-Docker                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
-textmate                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
+Python                   21 hrs 54 mins      ███████████████████░░░░░░   77.04% 
+YAML                     2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
+Nginx configuration file 57 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
+Markdown                 54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17% 
+JSON                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.72%
 
 🔥 Editors: 
-PyCharm                  27 hrs 41 mins      █████████████████████████   100.0%
+PyCharm                  28 hrs 26 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      27 hrs 41 mins      █████████████████████████   100.0%
+Mac                      28 hrs 26 mins      █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2024
+ Last Updated on 14/06/2024
 <!--END_SECTION:waka-->
 
 <!--
