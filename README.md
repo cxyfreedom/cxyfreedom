@@ -26,13 +26,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C414%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C414%20hrs%202%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 8 Contributions in the Year 2024
  > 
-> 📦 94.9 kB Used in GitHub's Storage 
+> 📦 96.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2024
+ Last Updated on 01/09/2024
 <!--END_SECTION:waka-->
 
 <!--
