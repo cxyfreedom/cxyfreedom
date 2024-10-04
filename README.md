@@ -30,7 +30,7 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 
 **🐱 My GitHub Data** 
 
-> 🏆 8 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 📦 101.7 kB Used in GitHub's Storage 
  > 
