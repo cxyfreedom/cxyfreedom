@@ -30,6 +30,8 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 
 **🐱 My GitHub Data** 
 
+> 🏆 1 Contributions in the Year 2025
+ > 
 > 📦 122.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
