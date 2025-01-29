@@ -26,13 +26,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C837%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C837%20hrs%2045%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 2 Contributions in the Year 2025
  > 
-> 📦 124.3 kB Used in GitHub's Storage 
+> 📦 123.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,17 @@ Sunday       1 commits      ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 hrs 14 mins      █████████████░░░░░░░░░░░░   52.0% 
-YAML                     7 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   33.09% 
-Nginx configuration file 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
-textmate                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.92% 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75%
+Python                   9 hrs 26 mins       █████████████░░░░░░░░░░░░   52.35% 
+YAML                     5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   31.23% 
+Nginx configuration file 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
+textmate                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
+Text                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
 
 🔥 Editors: 
-PyCharm                  23 hrs 32 mins      █████████████████████████   100.0%
+PyCharm                  18 hrs 1 min        █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      23 hrs 32 mins      █████████████████████████   100.0%
+Mac                      18 hrs 1 min        █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2025
+ Last Updated on 29/01/2025
 <!--END_SECTION:waka-->
 
 <!--
