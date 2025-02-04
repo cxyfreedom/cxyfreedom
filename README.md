@@ -32,7 +32,7 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 
 > 🏆 2 Contributions in the Year 2025
  > 
-> 📦 124.5 kB Used in GitHub's Storage 
+> 📦 125.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,13 @@ Sunday       1 commits      ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   27 mins             █████████████████░░░░░░░░   70.49% 
-textmate                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   22.94% 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.57% 
-Nginx configuration file 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.67% 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      39 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -93,7 +89,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2025
+ Last Updated on 04/02/2025
 <!--END_SECTION:waka-->
 
 <!--
