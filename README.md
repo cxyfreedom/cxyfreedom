@@ -26,13 +26,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C316%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C321%20hrs%206%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 18 Contributions in the Year 2025
+> 🏆 22 Contributions in the Year 2025
  > 
-> 📦 151.7 kB Used in GitHub's Storage 
+> 📦 150.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -44,8 +44,8 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    3 commits      ███████████████░░░░░░░░░░   60.0% 
-🌃 Evening    2 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
+🌆 Daytime    10 commits     ███████████████░░░░░░░░░░   62.5% 
+🌃 Evening    6 commits      █████████░░░░░░░░░░░░░░░░   37.5% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -54,11 +54,11 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ```text
 Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    2 commits      ██████████░░░░░░░░░░░░░░░   40.0% 
-Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Wednesday    5 commits      ███████░░░░░░░░░░░░░░░░░░   31.25% 
+Thursday     2 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     1 commits      █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Sunday       2 commits      ██████████░░░░░░░░░░░░░░░   40.0%
+Saturday     5 commits      ███████░░░░░░░░░░░░░░░░░░   31.25% 
+Sunday       4 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
 
@@ -93,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025
+ Last Updated on 16/06/2025
 <!--END_SECTION:waka-->
 
 <!--
