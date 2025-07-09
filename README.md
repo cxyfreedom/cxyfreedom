@@ -26,13 +26,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C399%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C405%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 26 Contributions in the Year 2025
  > 
-> 📦 152.9 kB Used in GitHub's Storage 
+> 📦 153.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,17 @@ Sunday       4 commits      █████░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   21 hrs 56 mins      ███████████████████░░░░░░   78.82% 
-YAML                     3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
-textmate                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16% 
-Docker                   24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
-Nginx configuration file 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
+Python                   18 hrs 15 mins      ███████████████████░░░░░░   76.55% 
+YAML                     3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.1% 
+Nginx configuration file 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.74% 
+textmate                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
+Docker                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
 
 🔥 Editors: 
-PyCharm                  27 hrs 49 mins      █████████████████████████   100.0%
+PyCharm                  23 hrs 50 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      27 hrs 49 mins      █████████████████████████   100.0%
+Mac                      23 hrs 50 mins      █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2025
+ Last Updated on 09/07/2025
 <!--END_SECTION:waka-->
 
 <!--
