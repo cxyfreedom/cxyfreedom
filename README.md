@@ -26,13 +26,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C409%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C418%20hrs%2026%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 28 Contributions in the Year 2025
  > 
-> 📦 153.2 kB Used in GitHub's Storage 
+> 📦 153.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,17 @@ Sunday       4 commits      ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   17 hrs 16 mins      ████████████████████░░░░░   80.69% 
-YAML                     2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.05% 
-Nginx configuration file 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.78% 
-textmate                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12% 
-GitIgnore file           10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+Python                   17 hrs 24 mins      █████████████████░░░░░░░░   68.85% 
+YAML                     4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
+Nginx configuration file 1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
+textmate                 44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.96% 
+SQL                      33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19%
 
 🔥 Editors: 
-PyCharm                  21 hrs 24 mins      █████████████████████████   100.0%
+PyCharm                  25 hrs 17 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      21 hrs 24 mins      █████████████████████████   100.0%
+Mac                      25 hrs 17 mins      █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2025
+ Last Updated on 12/07/2025
 <!--END_SECTION:waka-->
 
 <!--
