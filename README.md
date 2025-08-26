@@ -26,13 +26,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C570%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C570%20hrs%2056%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 45 Contributions in the Year 2025
  > 
-> 📦 166.1 kB Used in GitHub's Storage 
+> 📦 166.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,17 @@ Sunday       10 commits     ███████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   23 hrs 39 mins      ███████████████████░░░░░░   79.43% 
-YAML                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.95% 
-TOML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
-Nginx configuration file 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.59% 
-Text                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.8%
+Python                   21 hrs 57 mins      ████████████████████░░░░░   81.35% 
+YAML                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.9% 
+TOML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Nginx configuration file 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
+textmate                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
 
 🔥 Editors: 
-PyCharm                  29 hrs 46 mins      █████████████████████████   100.0%
+PyCharm                  26 hrs 59 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      29 hrs 46 mins      █████████████████████████   100.0%
+Mac                      26 hrs 59 mins      █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2025
+ Last Updated on 26/08/2025
 <!--END_SECTION:waka-->
 
 <!--
