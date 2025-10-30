@@ -26,13 +26,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C773%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C779%20hrs%208%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 45 Contributions in the Year 2025
  > 
-> 📦 181.2 kB Used in GitHub's Storage 
+> 📦 180.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,17 +67,17 @@ Sunday       10 commits     ███████░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   20 hrs 36 mins      ███████████████████░░░░░░   79.39% 
-YAML                     3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32% 
-Docker                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.75% 
-textmate                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52% 
-Nginx configuration file 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+Python                   19 hrs 42 mins      ███████████████████░░░░░░   76.8% 
+YAML                     3 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
+Docker                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.73% 
+textmate                 25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64% 
+Nginx configuration file 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83%
 
 🔥 Editors: 
-PyCharm                  25 hrs 57 mins      █████████████████████████   100.0%
+PyCharm                  25 hrs 39 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      25 hrs 57 mins      █████████████████████████   100.0%
+Mac                      25 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2025
+ Last Updated on 30/10/2025
 <!--END_SECTION:waka-->
 
 <!--
