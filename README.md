@@ -32,7 +32,7 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 
 > 🏆 48 Contributions in the Year 2025
  > 
-> 📦 194.7 kB Used in GitHub's Storage 
+> 📦 194.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -93,7 +93,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025
+ Last Updated on 28/12/2025
 <!--END_SECTION:waka-->
 
 <!--
