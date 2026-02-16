@@ -40,7 +40,7 @@ jobs:
       #     token: ${{ secrets.GH_TOKEN }}
     
       - name: Generate trophy card
-        uses: Erik-Donath/github-profile-trophy@v1
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
           output_path: profile/trophy.svg
