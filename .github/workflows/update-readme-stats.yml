@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false
           path: profile/stats.svg
           token: ${{ secrets.GH_TOKEN }}
 
@@ -27,16 +27,23 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6
+          options: username=${{ github.repository_owner }}&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact
           path: profile/top-langs.svg
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Generate pin card
-        uses: readme-tools/github-readme-stats-action@v1
+      # - name: Generate pin card
+      #   uses: readme-tools/github-readme-stats-action@v1
+      #   with:
+      #     card: pin
+      #     options: username=readme-tools&repo=github-readme-stats
+      #     path: profile/pin-readme-tools-github-readme-stats.svg
+      #     token: ${{ secrets.GH_TOKEN }}
+    
+      - name: Generate trophy card
+        uses: Erik-Donath/github-profile-trophy@v1
         with:
-          card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          username: ${{ github.repository_owner }}
+          output_path: profile/trophy.svg
           token: ${{ secrets.GH_TOKEN }}
 
       - name: Commit cards
