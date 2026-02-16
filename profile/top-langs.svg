@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #2f80ed;
+            fill: #c792ea;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #a6accd;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #434d58;
+      fill: #a6accd;
     }
     .stagger {
       opacity: 0;
@@ -93,7 +93,7 @@
           height="99%"
           stroke="#e4e2e2"
           width="299"
-          fill="#fffefe"
+          fill="#292d3e"
           stroke-opacity="1"
         />
 
@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="183.99"
+          width="184.01"
           height="8"
           fill="#e34c26"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="183.99"
+          x="184.01"
           y="0"
-          width="53.27"
+          width="53.28"
           height="8"
           fill="#3572A5"
         />
@@ -148,7 +148,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="237.26000000000002"
+          x="237.29"
           y="0"
           width="16.19"
           height="8"
@@ -158,7 +158,7 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="243.45000000000002"
+          x="243.48"
           y="0"
           width="15.190000000000001"
           height="8"
@@ -168,21 +168,21 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="248.64000000000001"
+          x="248.67"
           y="0"
           width="10.68"
           height="8"
-          fill="#083fa1"
+          fill="#00ADD8"
         />
       
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="249.32000000000002"
+          x="249.35"
           y="0"
-          width="10.68"
+          width="10.66"
           height="8"
-          fill="#00ADD8"
+          fill="#083fa1"
         />
       
       
@@ -217,16 +217,16 @@
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown 0.27%
+        Go 0.27%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#00ADD8" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Go 0.27%
+        Markdown 0.26%
       </text>
     </g>
   </g></g>
