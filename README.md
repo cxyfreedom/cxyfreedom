@@ -28,13 +28,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](./profile/trophy.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C970%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C970%20hrs%2045%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 21 Contributions in the Year 2026
  > 
-> 📦 210.0 kB Used in GitHub's Storage 
+> 📦 209.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,7 +96,7 @@ Markdown                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2026
+ Last Updated on 15/03/2026
 <!--END_SECTION:waka-->
 
 <!--
