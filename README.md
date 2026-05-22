@@ -28,7 +28,7 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](./profile/trophy.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-713%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C524%20hrs%2045%20mins-blue)
 
 **🐱 My GitHub Data** 
 
