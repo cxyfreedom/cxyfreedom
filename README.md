@@ -28,13 +28,13 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 ![](./profile/trophy.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C990%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C990%20hrs%2051%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 33 Contributions in the Year 2026
  > 
-> 📦 221.9 kB Used in GitHub's Storage 
+> 📦 221.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -69,13 +69,18 @@ Sunday       9 commits      ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 8 mins        ████████████████░░░░░░░░░   66.85% 
+Nginx configuration file 48 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
+Markdown                 43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 28 mins       ███████████████████████░░   95.31% 
+PyCharm                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
@@ -92,7 +97,7 @@ Markdown                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2026
+ Last Updated on 31/05/2026
 <!--END_SECTION:waka-->
 
 <!--
