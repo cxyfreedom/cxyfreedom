@@ -180,7 +180,7 @@
           data-testid="lang-progress"
           x="249.35"
           y="0"
-          width="10.67"
+          width="10.66"
           height="8"
           fill="#083fa1"
         />
@@ -191,7 +191,7 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 73.60%
+        HTML 73.61%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
@@ -226,7 +226,7 @@
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown 0.27%
+        Markdown 0.26%
       </text>
     </g>
   </g></g>
