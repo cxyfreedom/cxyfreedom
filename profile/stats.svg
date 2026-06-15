@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">CxyFreedom's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 561, Total Commits  (last year) : 41, Total PRs: 42, Total Issues: 32, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 561, Total Commits  (last year) : 37, Total PRs: 42, Total Issues: 32, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 110.47471862141991;
+        stroke-dashoffset: 110.9034123173122;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >41</text>
+      >37</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
