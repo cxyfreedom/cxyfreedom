@@ -34,7 +34,7 @@ A senior backend developer from China, based in Shanghai. I regulary write artic
 
 > 🏆 52 Contributions in the Year 2026
  > 
-> 📦 242.7 kB Used in GitHub's Storage 
+> 📦 242.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,7 +92,7 @@ Markdown                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/11/2026
+ Last Updated on 08/11/2026
 <!--END_SECTION:waka-->
 
 <!--
